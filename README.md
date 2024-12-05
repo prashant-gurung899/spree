@@ -28,7 +28,7 @@ If you want to use sample data (products, categories), you can load it using the
 bin/rake spree_sample:load
 ```
 
-#### Full docker setup
+#### Full docker setup hello
 
 If you're having trouble with Ruby/etc setup and just want to get everything up and running, you can use the following command to start the docker containers.
 
